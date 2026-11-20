@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Giovanni Ramirez
 =========================================================================================================================================
 
-Full Stack Web Developer
+Frontend Web Developer
 ------------------------
 
-I'm a Frontend-oriented software developer with great Backend skills, I'm also an Artist who loves to draw on my free time.
+I'm a Frontend Developer software developer with great Backend skills, I'm also an Artist who loves to draw on my free time.
 
 * 🌍  I'm based in New Jersey
 * 🖥️  See my portfolio at [giovanniramirez.dev :)](www.giovanniramirez.dev)
